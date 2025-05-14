@@ -10,7 +10,7 @@
       "import": "./dist/index.js",  
       "require": "./dist/index.cjs" 
     }
-  },
+  }
   "scripts": {
     "dev": "vite",
     "build": "vite build",
