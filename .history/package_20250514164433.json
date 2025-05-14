@@ -1,8 +1,7 @@
 {
   "name": "component_test",
   "private": true,
-  "version": "1.0.0",
-  "main": "dist/index.js",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
